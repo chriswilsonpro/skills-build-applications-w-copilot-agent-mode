@@ -1,4 +1,4 @@
----
+git ---
 applyTo: "octofit-tracker/backend/**"
 ---
 # Octofit-tracker Fitness App Django backend Guidelines
